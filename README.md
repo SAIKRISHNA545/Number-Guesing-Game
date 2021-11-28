@@ -1,1 +1,1 @@
-# Number-Guesing-Game
+Number Guessing Game means, when ever program is excuted random number is generated and then user should guess the number. If the guess number is larger than random number then  displays guess number is too big. If the guess number is smaller than the random number then  displays guess number is too small.If number matches displays Correct Number
